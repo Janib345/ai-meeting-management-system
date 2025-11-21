@@ -23,7 +23,7 @@ communication tools, and offers role-based access with meeting insights and anal
 
 ## 📦 Installation
 1. Clone the repository:
-   https://github.com/your-username/ai-meeting-management-system.git
+https://github.com/Janib345/ai-meeting-management-system.git
 2. Navigate to project directory:
 cd ai-meeting-management-system
 3. Install dependencies:
