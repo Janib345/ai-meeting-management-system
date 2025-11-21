@@ -1,0 +1,256 @@
+[2025-04-18 15:28:47] Caption: Dearborn
+[2025-04-18 15:28:47] Detected Language: English
+[2025-04-18 15:28:47] Translation: ديربورن
+
+[2025-04-18 15:28:50] Caption: Dearborn hello
+[2025-04-18 15:28:50] Detected Language: English
+[2025-04-18 15:28:50] Translation: ديربورن مرحبا
+
+[2025-04-18 15:28:56] Caption: hello hi David do you have
+[2025-04-18 15:28:56] Detected Language: English
+[2025-04-18 15:28:56] Translation: مرحبا مرحبا ديفيد هل لديك
+
+[2025-04-18 15:28:59] Caption: hi David do you have I have a few minutes
+[2025-04-18 15:28:59] Detected Language: English
+[2025-04-18 15:28:59] Translation: مرحبا ديفيد هل لديك بضع دقائق
+
+[2025-04-18 15:29:01] Caption: I have a few minutes I need help with
+[2025-04-18 15:29:01] Detected Language: English
+[2025-04-18 15:29:01] Translation: لدي بضع دقائق أحتاج إلى مساعدة
+
+[2025-04-18 15:29:02] Caption: I need help with put the dashboard part
+[2025-04-18 15:29:02] Detected Language: English
+[2025-04-18 15:29:02] Translation: أحتاج إلى مساعدة في وضع جزء لوحة القيادة
+
+[2025-04-18 15:29:05] Caption: put the dashboard part show Ryan what's the
+[2025-04-18 15:29:05] Detected Language: English
+[2025-04-18 15:29:05] Translation: ضع جزء من لوحة القيادة عرض Ryan ما هو
+
+[2025-04-18 15:29:07] Caption: show Ryan what's the what is the problem I made
+[2025-04-18 15:29:07] Detected Language: English
+[2025-04-18 15:29:07] Translation: أظهر ريان ما هي المشكلة التي قطعتها
+
+[2025-04-18 15:29:09] Caption: what is the problem I made put the layout and edit
+[2025-04-18 15:29:09] Detected Language: English
+[2025-04-18 15:29:09] Translation: ما هي المشكلة التي جعلتها وضع التصميم والتحرير
+
+[2025-04-18 15:29:11] Caption: put the layout and edit play some charts but when I
+[2025-04-18 15:29:11] Detected Language: English
+[2025-04-18 15:29:11] Translation: ضع التصميم وتعديل تشغيل بعض الرسوم البيانية ولكن عندما أنا
+
+[2025-04-18 15:29:13] Caption: play some charts but when I can I try to get data from the
+[2025-04-18 15:29:13] Detected Language: English
+[2025-04-18 15:29:13] Translation: قم بتشغيل بعض المخططات ولكن عندما يمكنني محاولة الحصول على بيانات من
+
+[2025-04-18 15:29:16] Caption: can I try to get data from the turn on the back end I get
+[2025-04-18 15:29:16] Detected Language: English
+[2025-04-18 15:29:16] Translation: هل يمكنني محاولة الحصول على بيانات من المنعطف في النهاية الخلفية التي أحصل عليها
+
+[2025-04-18 15:29:19] Caption: turn on the back end I get better authorized
+[2025-04-18 15:29:19] Detected Language: English
+[2025-04-18 15:29:19] Translation: قم بتشغيل النهاية الخلفية أحصل على مصرح بها بشكل أفضل
+
+[2025-04-18 15:29:21] Caption: better authorized so
+[2025-04-18 15:29:21] Detected Language: English
+[2025-04-18 15:29:21] Translation: أفضل مخول لذلك
+
+[2025-04-18 15:29:24] Caption: so that means your request
+[2025-04-18 15:29:24] Detected Language: English
+[2025-04-18 15:29:24] Translation: وهذا يعني طلبك
+
+[2025-04-18 15:29:26] Caption: that means your request Quest is missing the token
+[2025-04-18 15:29:26] Detected Language: English
+[2025-04-18 15:29:26] Translation: هذا يعني أن طلب طلبك يفتقد الرمز المميز
+
+[2025-04-18 15:29:28] Caption: Quest is missing the token or it's wrong
+[2025-04-18 15:29:28] Detected Language: English
+[2025-04-18 15:29:28] Translation: السعي يفتقد الرمز المميز أو خطأ
+
+[2025-04-18 15:29:30] Caption: or it's wrong did you use the inter
+[2025-04-18 15:29:30] Detected Language: English
+[2025-04-18 15:29:30] Translation: أو من الخطأ هل استخدمت inter
+
+[2025-04-18 15:29:33] Caption: did you use the inter Interceptor be added last
+[2025-04-18 15:29:33] Detected Language: English
+[2025-04-18 15:29:33] Translation: هل استخدمت إضافة Interceptor أخيرًا
+
+[2025-04-18 15:29:35] Caption: Interceptor be added last last week
+[2025-04-18 15:29:35] Detected Language: English
+[2025-04-18 15:29:35] Translation: يتم إضافة اعتراض الأسبوع الماضي الماضي
+
+[2025-04-18 15:29:37] Caption: last week I think so
+[2025-04-18 15:29:37] Detected Language: English
+[2025-04-18 15:29:37] Translation: في الأسبوع الماضي أعتقد ذلك
+
+[2025-04-18 15:29:39] Caption: I think so I edit it in
+[2025-04-18 15:29:39] Detected Language: English
+[2025-04-18 15:29:39] Translation: أعتقد أن أقوم بتحريره
+
+[2025-04-18 15:29:41] Caption: I edit it in in the API service
+[2025-04-18 15:29:41] Detected Language: English
+[2025-04-18 15:29:41] Translation: أقوم بتحريره في خدمة API
+
+[2025-04-18 15:29:44] Caption: in the API service but I just saw
+[2025-04-18 15:29:44] Detected Language: English
+[2025-04-18 15:29:44] Translation: في خدمة API لكنني رأيت للتو
+
+[2025-04-18 15:29:46] Caption: but I just saw I used a
+[2025-04-18 15:29:46] Detected Language: English
+[2025-04-18 15:29:46] Translation: لكني رأيت للتو أنني استخدمت أ
+
+[2025-04-18 15:29:49] Caption: I used a perfect looking for
+[2025-04-18 15:29:49] Detected Language: English
+[2025-04-18 15:29:49] Translation: لقد استخدمت مثاليًا بحثًا عنه
+
+[2025-04-18 15:29:52] Caption: perfect looking for testing
+[2025-04-18 15:29:52] Detected Language: English
+[2025-04-18 15:29:52] Translation: مثالي يبحث عن الاختبار
+
+[2025-04-18 15:29:56] Caption: testing that's
+[2025-04-18 15:29:56] Detected Language: English
+[2025-04-18 15:29:56] Translation: اختبار هذا
+
+[2025-04-18 15:29:59] Caption: that's said you should always get the
+[2025-04-18 15:29:59] Detected Language: English
+[2025-04-18 15:29:59] Translation: يقال إنه يجب عليك دائمًا الحصول على
+
+[2025-04-18 15:30:02] Caption: said you should always get the get the latest token from local
+[2025-04-18 15:30:02] Detected Language: English
+[2025-04-18 15:30:02] Translation: قال إنه يجب عليك دائمًا الحصول على آخر رمز من المحلية
+
+[2025-04-18 15:30:05] Caption: get the latest token from local local storage and said
+[2025-04-18 15:30:05] Detected Language: English
+[2025-04-18 15:30:05] Translation: احصل على أحدث رمز من التخزين المحلي المحلي وقال
+
+[2025-04-18 15:30:17] Caption: local storage and said I like this authorization
+[2025-04-18 15:30:17] Detected Language: English
+[2025-04-18 15:30:17] Translation: تخزين محلي وقال إنني أحب هذا التفويض
+
+[2025-04-18 15:30:23] Caption: I like this authorization turn colon where
+[2025-04-18 15:30:23] Detected Language: English
+[2025-04-18 15:30:23] Translation: أنا أحب هذا التفويض تحول القولون حيث
+
+[2025-04-18 15:30:26] Caption: turn colon where start token
+[2025-04-18 15:30:26] Detected Language: English
+[2025-04-18 15:30:26] Translation: اقلب القولون حيث ابدأ الرمز المميز
+
+[2025-04-18 15:30:30] Caption: start token next set
+[2025-04-18 15:30:30] Detected Language: English
+[2025-04-18 15:30:30] Translation: ابدأ المجموعة التالية
+
+[2025-04-18 15:30:32] Caption: next set check the format
+[2025-04-18 15:30:32] Detected Language: English
+[2025-04-18 15:30:32] Translation: المجموعة التالية تحقق من التنسيق
+
+[2025-04-18 15:30:36] Caption: check the format the labels and value
+[2025-04-18 15:30:36] Detected Language: English
+[2025-04-18 15:30:36] Translation: تحقق من تنسيق التسميات والقيمة
+
+[2025-04-18 15:30:38] Caption: the labels and value second data into that format
+[2025-04-18 15:30:38] Detected Language: English
+[2025-04-18 15:30:38] Translation: تسميات وقيمة البيانات الثانية في هذا التنسيق
+
+[2025-04-18 15:30:40] Caption: second data into that format I get
+[2025-04-18 15:30:40] Detected Language: English
+[2025-04-18 15:30:40] Translation: البيانات الثانية في هذا التنسيق الذي أحصل عليه
+
+[2025-04-18 15:30:43] Caption: I get but they are not
+[2025-04-18 15:30:43] Detected Language: English
+[2025-04-18 15:30:43] Translation: أحصل لكنهم ليسوا كذلك
+
+[2025-04-18 15:30:45] Caption: but they are not then sort the data
+[2025-04-18 15:30:45] Detected Language: English
+[2025-04-18 15:30:45] Translation: لكنهم ليسوا بعد ذلك فرز البيانات
+
+[2025-04-18 15:30:47] Caption: then sort the data got it
+[2025-04-18 15:30:47] Detected Language: English
+[2025-04-18 15:30:47] Translation: ثم فرز البيانات حصلت عليها
+
+[2025-04-18 15:30:49] Caption: got it style yes
+[2025-04-18 15:30:49] Detected Language: English
+[2025-04-18 15:30:49] Translation: حصلت عليه أسلوب نعم
+
+[2025-04-18 15:30:51] Caption: style yes yes you can yes you can
+[2025-04-18 15:30:51] Detected Language: English
+[2025-04-18 15:30:51] Translation: النمط نعم نعم يمكنك نعم يمكنك
+
+[2025-04-18 15:30:54] Caption: yes you can yes you can similar to the rest of the app
+[2025-04-18 15:30:54] Detected Language: English
+[2025-04-18 15:30:54] Translation: نعم يمكنك نعم يمكنك أن تشبه بقية التطبيق
+
+[2025-04-18 15:30:56] Caption: similar to the rest of the app before you finish
+[2025-04-18 15:30:56] Detected Language: English
+[2025-04-18 15:30:56] Translation: على غرار بقية التطبيق قبل الانتهاء
+
+[2025-04-18 15:31:00] Caption: before you finish speak to him
+[2025-04-18 15:31:00] Detected Language: English
+[2025-04-18 15:31:00] Translation: قبل الانتهاء ، تحدث معه
+
+[2025-04-18 15:31:02] Caption: speak to him thanks a lot for help
+[2025-04-18 15:31:02] Detected Language: English
+[2025-04-18 15:31:02] Translation: تحدث إليه ، شكرًا جزيلاً للمساعدة
+
+[2025-04-18 15:31:04] Caption: thanks a lot for help I'm learning a lot
+[2025-04-18 15:31:04] Detected Language: English
+[2025-04-18 15:31:04] Translation: شكرا جزيلا للمساعدة أنا أتعلم الكثير
+
+[2025-04-18 15:31:06] Caption: I'm learning a lot you are doing well
+[2025-04-18 15:31:06] Detected Language: English
+[2025-04-18 15:31:06] Translation: أنا أتعلم الكثير الذي تقوم به بشكل جيد
+
+[2025-04-18 15:31:08] Caption: you are doing well call Ryan
+[2025-04-18 15:31:08] Detected Language: English
+[2025-04-18 15:31:08] Translation: أنت تبلي بلاءً حسناً ، اتصل بـ Ryan
+
+[2025-04-18 15:31:10] Caption: call Ryan can you make mistakes
+[2025-04-18 15:31:10] Detected Language: English
+[2025-04-18 15:31:10] Translation: اتصل بـ Ryan هل يمكنك ارتكاب أخطاء
+
+[2025-04-18 15:31:13] Caption: can you make mistakes that's how you learn
+[2025-04-18 15:31:13] Detected Language: English
+[2025-04-18 15:31:13] Translation: هل يمكنك ارتكاب أخطاء هكذا تتعلم
+
+[2025-04-18 15:31:15] Caption: that's how you learn haha
+[2025-04-18 15:31:15] Detected Language: English
+[2025-04-18 15:31:15] Translation: هكذا تتعلم هاها
+
+[2025-04-18 15:31:17] Caption: haha I already made of you
+[2025-04-18 15:31:17] Detected Language: English
+[2025-04-18 15:31:17] Translation: هاها لقد صنعت منك بالفعل
+
+[2025-04-18 15:31:19] Caption: I already made of you but I am fixing
+[2025-04-18 15:31:19] Detected Language: English
+[2025-04-18 15:31:19] Translation: لقد صنعت بالفعل لك لكني أصلح
+
+[2025-04-18 15:31:21] Caption: but I am fixing mixing them and learning
+[2025-04-18 15:31:21] Detected Language: English
+[2025-04-18 15:31:21] Translation: لكنني أقوم بخلطهم والتعلم
+
+[2025-04-18 15:31:24] Caption: mixing them and learning that's good
+[2025-04-18 15:31:24] Detected Language: English
+[2025-04-18 15:31:24] Translation: مزجهم والتعلم هذا جيد
+
+[2025-04-18 15:31:26] Caption: that's good after lunch and check your
+[2025-04-18 15:31:26] Detected Language: English
+[2025-04-18 15:31:26] Translation: هذا جيد بعد الغداء وتحقق
+
+[2025-04-18 15:31:29] Caption: after lunch and check your what's your progress
+[2025-04-18 15:31:29] Detected Language: English
+[2025-04-18 15:31:29] Translation: بعد الغداء وتحقق من ما هو تقدمك
+
+[2025-04-18 15:31:31] Caption: what's your progress sure
+[2025-04-18 15:31:31] Detected Language: English
+[2025-04-18 15:31:31] Translation: ما هو تقدمك بالتأكيد
+
+[2025-04-18 15:31:35] Caption: sure make a summary and
+[2025-04-18 15:31:35] Detected Language: English
+[2025-04-18 15:31:35] Translation: بالتأكيد قم بإجراء ملخص و
+
+[2025-04-18 15:31:37] Caption: make a summary and and make a PDF
+[2025-04-18 15:31:37] Detected Language: English
+[2025-04-18 15:31:37] Translation: قم بإجراء ملخص وصنع ملف PDF
+
+[2025-04-18 15:31:39] Caption: and make a PDF off that
+[2025-04-18 15:31:39] Detected Language: English
+[2025-04-18 15:31:39] Translation: وقم بإنشاء ملف PDF من ذلك
+

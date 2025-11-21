@@ -1,0 +1,24 @@
+[2025-04-22 18:21:28] Caption: 800
+[2025-04-22 18:21:28] Detected Language: English
+[2025-04-22 18:21:28] Translation: 800
+
+[2025-04-22 18:21:39] Caption: 800 turn off alarm
+[2025-04-22 18:21:39] Detected Language: English
+[2025-04-22 18:21:39] Translation: 800 إيقاف المنبه
+
+[2025-04-22 18:22:18] Caption: turn off alarm what are you
+[2025-04-22 18:22:18] Detected Language: English
+[2025-04-22 18:22:18] Translation: قم بإيقاف تشغيل المنبه ما أنت
+
+[2025-04-22 18:22:25] Caption: what are you hello hello
+[2025-04-22 18:22:25] Detected Language: English
+[2025-04-22 18:22:25] Translation: ماذا انت مرحبا
+
+[2025-04-22 18:22:39] Caption: hello hello everything is fine
+[2025-04-22 18:22:39] Detected Language: English
+[2025-04-22 18:22:39] Translation: مرحبا مرحبا كل شيء على ما يرام
+
+[2025-04-22 18:22:42] Caption: everything is fine how to take this fight
+[2025-04-22 18:22:42] Detected Language: English
+[2025-04-22 18:22:42] Translation: كل شيء على ما يرام كيف تأخذ هذه المعركة
+

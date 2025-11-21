@@ -1,0 +1,36 @@
+[2025-04-22 18:23:54] Original (English): hello hello
+[2025-04-22 18:23:54] Translation: مرحبا مرحبا
+
+[2025-04-22 18:24:04] Original (English): hello hello hello
+[2025-04-22 18:24:04] Translation: مرحبا مرحبا مرحبا
+
+[2025-04-22 18:24:23] Original (English): hello play
+[2025-04-22 18:24:23] Translation: مرحبا اللعب
+
+[2025-04-22 18:24:40] Original (English): play Garden information
+[2025-04-22 18:24:40] Translation: لعب معلومات الحديقة
+
+[2025-04-22 18:24:50] Original (English): Garden information thumbs up
+[2025-04-22 18:24:50] Translation: معلومات الحديقة.
+
+[2025-04-22 18:24:54] Original (English): thumbs up hello
+[2025-04-22 18:24:54] Translation: إبهام مرحبا
+
+[2025-04-22 18:25:38] Original (English): hello definition
+[2025-04-22 18:25:38] Translation: مرحبا التعريف
+
+[2025-04-22 18:25:50] Original (English): definition volume
+[2025-04-22 18:25:50] Translation: حجم التعريف
+
+[2025-04-22 18:25:57] Original (English): volume understand
+[2025-04-22 18:25:57] Translation: فهم يفهم
+
+[2025-04-22 18:26:02] Original (English): understand 93.5
+[2025-04-22 18:26:02] Translation: فهم 93.5
+
+[2025-04-22 18:26:08] Original (English): 93.5 show how to get the
+[2025-04-22 18:26:08] Translation: 93.5 أظهر كيفية الحصول على
+
+[2025-04-22 18:26:22] Original (English): show how to get the alarm at 5
+[2025-04-22 18:26:22] Translation: أظهر كيفية الحصول على المنبه في 5
+
